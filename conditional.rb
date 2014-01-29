@@ -6,5 +6,5 @@ num2 = gets.chomp
 if num1 > num2
 puts "The first one is bigger"
 else
-	puts "The second one is whate"
+	puts "The second one is what"
 end
